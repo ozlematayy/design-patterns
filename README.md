@@ -2,7 +2,7 @@
  
 **Creational Design Patterns:**
 - [x] [Singleton Pattern](https://github.com/ozlematayy/design-patterns/blob/main/singleton.md)
-- [x] [Factory Method Pattern](https://github.com/KardelRuveyda/dotnet-yuzuncuyil-egitim-notlari/blob/master/ben-kimim.md)
+- [x] [Factory Method Pattern](https://github.com/ozlematayy/design-patterns/blob/main/abstract-factory.md)
 - [x] [Abstract Factory Pattern](https://github.com/ozlematayy/design-patterns/blob/main/factory-method.md)
 - Builder Pattern
 - Prototype Pattern
