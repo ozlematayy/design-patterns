@@ -4,8 +4,8 @@
 - [x] [Singleton Pattern](https://github.com/ozlematayy/design-patterns/blob/main/singleton.md)
 - [x] [Factory Method Pattern](https://github.com/ozlematayy/design-patterns/blob/main/factory-method.md)
 - [x] [Abstract Factory Pattern](https://github.com/ozlematayy/design-patterns/blob/main/abstract-factory.md)
-- Builder Pattern
-- Prototype Pattern
+- [x] [Builder Pattern](https://github.com/ozlematayy/design-patterns/blob/main/builder.md)
+- [x] [Prototype Pattern](https://github.com/ozlematayy/design-patterns/blob/main/prototype.md)
 
 
 **Structural Design Patterns:**
