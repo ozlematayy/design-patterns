@@ -1,4 +1,4 @@
-# design-patterns
+# Design Patterns
  
 **Creational Design Patterns:**
 - [x] [Singleton Pattern](https://github.com/ozlematayy/design-patterns/blob/main/singleton.md)
